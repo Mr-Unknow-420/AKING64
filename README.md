@@ -10,7 +10,7 @@
 
 ## <b>installation</b>
 
-🔰 CLONE FULL OK IDZ 🔰
+🔰 _CLONE FULL OK IDZ_ 🔰
 👇
 - `rm -rf AKING`
 - `pkg update`
