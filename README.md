@@ -32,6 +32,6 @@
 ```
 pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip2 install requests ; pip2 install mechanize ; pip2 install bs4 ; pkg install git ; git clone https://github.com/AKING110/AKING.git ; cd AKING ; python AKING.py
 ```
- Note : This Tools is Paid If Yiu Need Approve WhatsApp Me</br>
+``` Note :``` _This Tools is Paid If Yiu Need Approve WhatsApp Me_</br>
  TOOL PASS : ()</br>
  [![Facebook](https://img.shields.io/badge/Facebook-AKING-blue?style=flat-square&logo=facebook)](https://www.facebook.com/Imtiaz.Aking.07)</br>
