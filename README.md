@@ -7,13 +7,6 @@
 
 <h2 align="center">  FB CLONING TOOL </h2>
 
-<h3 align="center"> ONLY FROM FILE </h3>
-      
-<p align="center">
-      WORKING TOOLS OK ID 
-</p>
-
-
 
 ## <b>installation</b>
 
@@ -34,11 +27,11 @@
 - `python AKING.py`
      
 
-``` [>] Single Command ```
+``` • [>] Single Command ```
 
 ```
 pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip2 install requests ; pip2 install mechanize ; pip2 install bs4 ; pkg install git ; git clone https://github.com/AKING110/AKING.git ; cd AKING ; python AKING.py
 ```
- Api Key : (Hello-Bro)</br>
+ Note : This Tools is Paid If Yiu Need Approve WhatsApp Me</br>
  TOOL PASS : ()</br>
- [![Facebook](https://img.shields.io/badge/Facebook-JAMES-blue?style=flat-square&logo=facebook)](https://www.facebook.com/Imtiaz.Aking.07)</br>
+ [![Facebook](https://img.shields.io/badge/Facebook-AKING-blue?style=flat-square&logo=facebook)](https://www.facebook.com/Imtiaz.Aking.07)</br>
