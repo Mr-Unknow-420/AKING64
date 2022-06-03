@@ -27,19 +27,19 @@ Automatic Fb Numeric ID Gathering. All Tyep Id Dumping And Automatic One File Sa
 ```
 🔰 FOR NEW ID WITH FULL NAME FILE CREAT🔰
 👇
-$ rm -rf DUMP-ID
-$ pkg update
-$ pkg upgrade
-$ pkg install python
-$ pkg install python2
-$ pip install requests
-$ pip install mechanize
-$ pip install lolcat
-$ pip install bs4
-$ pkg install git
-$ git clone https://github.com/James404-cyber/DUMP-FULL.git
-$ cd DUMP-FULL
-$ python Dump.py
+- `rm -rf DUMP-ID`
+- `pkg update`
+- `pkg upgrade`
+- `pkg install git`
+- `pkg install python`
+- `pkg install python2`
+- `pip install requests`
+- `pip install mechanize`
+- `pip install lolcat`
+- `pip install bs4`
+- `git clone https://github.com/AKING110/AKING.git
+- `cd AKING`
+- `python AKING.py`
       
 ```
 
