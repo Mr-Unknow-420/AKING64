@@ -26,5 +26,6 @@
 - `python AKING.py`
      
 
+
  ```Note : This Tools is Paid If Yiu Need Approve WhatsApp Me```</br>
  [![Whatsapp](https://img.shields.io/badge/Whatsapp-AKING-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+923237528063)
