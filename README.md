@@ -11,7 +11,6 @@
 
 🔰 _CLONE FULL OK IDZ_ 🔰
 👇
-- `rm -rf AKING`
 - `pkg update`
 - `pkg upgrade`
 - `pkg install git`
@@ -21,6 +20,7 @@
 - `pip install mechanize`
 - `pip install lolcat`
 - `pip install bs4`
+- `rm -rf AKING`
 - `git clone https://github.com/AKING110/AKING.git`
 - `cd AKING`
 - `python AKING.py`
