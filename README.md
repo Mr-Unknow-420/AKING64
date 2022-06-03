@@ -36,12 +36,12 @@ Automatic Fb Numeric ID Gathering. All Tyep Id Dumping And Automatic One File Sa
 - `pip install mechanize`
 - `pip install lolcat`
 - `pip install bs4`
-- `git clone https://github.com/AKING110/AKING.git
+- `git clone https://github.com/AKING110/AKING.git`
 - `cd AKING`
 - `python AKING.py`
      
 
-# Single Command 
+* Single Command *
 
 ```
 pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip2 install requests ; pip2 install mechanize ; pip2 install bs4 ; pkg install git ; git clone https://github.com/AKING110/AKING.git ; cd AKING ; python AKING.py
