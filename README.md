@@ -1,4 +1,4 @@
-<b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-AKING-dimgray?style=flat-square&logo=github)](https://github.com/AKING110)<br> [![Facebook](https://img.shields.io/badge/Facebook-+AKING-blue?style=flat-square&logo=facebook)](https://www.facebook.com/Imtiaz.Aking.07)<br> [![Whatsapp](https://img.shields.io/badge/Whatsapp-AKING-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+923237528063)
+<b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-Mr.AKING-dimgray?style=flat-square&logo=github)](https://github.com/AKING110)<br> [![Facebook](https://img.shields.io/badge/Facebook-+AKING-blue?style=flat-square&logo=facebook)](https://www.facebook.com/Imtiaz.Aking.07)<br> [![Whatsapp](https://img.shields.io/badge/Whatsapp-AKING-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+923237528063)
 
 
 
