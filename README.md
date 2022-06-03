@@ -24,7 +24,6 @@ Automatic Fb Numeric ID Gathering. All Tyep Id Dumping And Automatic One File Sa
 
 ## <b>installation</b>
 
-```
 🔰 FOR NEW ID WITH FULL NAME FILE CREAT🔰
 👇
 - `rm -rf DUMP-ID`
@@ -40,8 +39,7 @@ Automatic Fb Numeric ID Gathering. All Tyep Id Dumping And Automatic One File Sa
 - `git clone https://github.com/AKING110/AKING.git
 - `cd AKING`
 - `python AKING.py`
-      
-```
+     
 
 # Single Command 
 
